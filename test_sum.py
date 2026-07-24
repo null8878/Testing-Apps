@@ -1,6 +1,6 @@
 """
 Name:
-Edward Clark
+Student
 Purpose:
 Is to test applications making sure all the code works.
 Date:
